@@ -35,7 +35,7 @@ const AboutDialog = () => {
           </div>
           <div className="mb-6 flex justify-center">
             <a
-              href="https://twitter.com/yourtwitter" // Replace with your Twitter profile URL
+              href="https://twitter.com/thom_haha" // Replace with your Twitter profile URL
               target="_blank"
               rel="noopener noreferrer"
               className="mr-4 text-gray-500 hover:text-blue-500"
