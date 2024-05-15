@@ -22,7 +22,7 @@ const AboutDialog = () => {
           </DialogHeader>
           <div className="mb-6 flex items-center justify-center">
             <img
-              src="/avatar.jpg" // Replace with your profile picture URL
+              src="/avatar.jpg"
               alt="Profile Picture"
               className="h-24 w-24 rounded-full"
             />
@@ -34,22 +34,36 @@ const AboutDialog = () => {
             </p>
           </div>
           <div className="mb-6 flex justify-center">
-            <a
-              href="https://twitter.com/thom_haha" // Replace with your Twitter profile URL
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mr-4 text-gray-500 hover:text-blue-500"
-            >
-              Twitter
-            </a>
-            <a
-              href="https://www.instagram.com/thom_haha/" // Replace with your LinkedIn profile URL
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-500 hover:text-blue-500"
-            >
-              Instagram
-            </a>
+            <button className="cursor-pointer">
+              <a
+                href="https://soundcloud.com/thomhaha" // Replace with your Twitter profile URL
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mr-4 cursor-pointer text-gray-500 hover:text-orange-500"
+              >
+                SoundCloud
+              </a>
+            </button>
+            <button className="cursor-pointer">
+              <a
+                href="https://www.instagram.com/thom_haha/" // Replace with your LinkedIn profile URL
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mr-4 cursor-pointer text-gray-500 hover:text-pink-500"
+              >
+                Instagram
+              </a>
+            </button>
+            <button className="cursor-pointer">
+              <a
+                href="https://www.youtube.com/channel/UCwHV8HZtpiNWidnZe7ik-BQ"
+                target="_blank"
+                rel="noopener noreferrer"
+                className=" text-gray-500 hover:text-red-500"
+              >
+                YouTube
+              </a>
+            </button>
           </div>
           <DialogFooter>
             <DialogClose>
