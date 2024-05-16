@@ -38,7 +38,7 @@ const links = [
       },
       {
         title: "Spotify",
-        url: "https://open.spotify.com/artist/xyz",
+        url: "https://open.spotify.com/artist/3tMYoYR2hwZr7VI6UqdWOl?si=Ik3UctkuRAeb6RsFTwZBAg",
         icon: (
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +58,7 @@ const links = [
       },
       {
         title: "Apple Music",
-        url: "https://music.apple.com/us/artist/thom-haha/xyz",
+        url: "https://music.apple.com/nz/artist/thom-haha/1423284926",
         icon: (
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -98,7 +98,7 @@ const links = [
       },
       {
         title: "YouTube",
-        url: "https://www.youtube.com/channel/xyz",
+        url: "https://www.youtube.com/channel/UCwHV8HZtpiNWidnZe7ik-BQ",
         icon: (
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -123,7 +123,7 @@ const links = [
     items: [
       {
         title: "Annabel Lee - Spotify",
-        url: "https://open.spotify.com/artist/abc",
+        url: "https://open.spotify.com/artist/1PRGpZP0ssAbbhwQ1uj4cV?si=CA-CM7wWRs6wrtLIjSJzCA",
         icon: (
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -143,7 +143,7 @@ const links = [
       },
       {
         title: "Ngahere Wafer - Spotify",
-        url: "https://open.spotify.com/artist/def",
+        url: "https://open.spotify.com/artist/2gHMoGVtXhBGWG9D8By84R?si=SsXicqx5TNGlG3stz7pO8Q",
         icon: (
           <svg
             xmlns="http://www.w3.org/2000/svg"
